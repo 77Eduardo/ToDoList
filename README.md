@@ -4,13 +4,16 @@ Projeto ToDo - List onde voce pode adicionar, marcar com concluida, remover tare
 
 ### Cado do projeto - (Landing Page)
 
+
 ![capa](https://github.com/77Eduardo/ToDoList/assets/103968776/653c30ca-e3f6-4711-a0b2-aa60bccf8f81)
 
 ### Projeto funcionado sem rodar o server, e sem nem uma tarefa
 
+
 ![projeto funcionando sem o json](https://github.com/77Eduardo/ToDoList/assets/103968776/32f2a46a-8d18-4634-9769-54c839f291f8)
 
 ### Projeto funcionando com o json, pegando o dados 
+
 
 ![projeto funcionando com json](https://github.com/77Eduardo/ToDoList/assets/103968776/5ff86ac0-f5a2-4d1a-bc4f-2e87c4046f1a)
 
@@ -35,8 +38,8 @@ npm install -g json-server
 Para usar ToDo - List, siga estas etapas:
 
 # Acesse a pasta do projeto no VSCode e no terminal
-$ npm run dev - para rodar o projeto
-$ npm run server - para rodar o server
+npm run dev - para rodar o projeto
+npm run server - para rodar o server
 
-# ou nao fassa o npm run dev e abra pelo netlify - https://illustrious-biscuit-86e39a.netlify.app e rode o npm run server para o servidor funcionar e puxar os
+ou nao fassa o npm run dev e abra pelo netlify - https://illustrious-biscuit-86e39a.netlify.app e rode o npm run server para o servidor funcionar e puxar os
 dados, adicionalos e poder excluilos
