@@ -4,7 +4,13 @@ Projeto ToDo - List onde voce pode adicionar, marcar com concluida, remover tare
 
 e das tecnologias usadas sao:
 
-   	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB   https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white   https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white   https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+   	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB  
+      
+      https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white   
+      
+      https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white   
+      
+      https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
  
 ### Cado do projeto - (Landing Page)
 
