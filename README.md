@@ -47,7 +47,7 @@ npm install -g json-server
 ### ☕ Usando ToDo - List
 Para usar ToDo - List, siga estas etapas:
 
-# Acesse a pasta do projeto no VSCode e no terminal
+## Acesse a pasta do projeto no VSCode e no terminal
 npm run dev - para rodar o projeto
 
 npm run server - para rodar o server
