@@ -28,10 +28,15 @@ Abaixo está um exemplo de como você pode instruir seu público sobre como inst
 
 Clonar o repositório
 git clone [https://github.com/your_username_/Project-Name.git](https://github.com/77Eduardo/ToDoList)
+
 Instalar pacotes NPM
+
 npm install
+
 para a api
+
 npm install axios
+
 npm install -g json-server
  
 ### ☕ Usando ToDo - List
