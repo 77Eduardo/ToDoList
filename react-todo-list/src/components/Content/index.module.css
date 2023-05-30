@@ -106,32 +106,71 @@
 }
 
 @media (max-width: 768px) {
-    .section_container {
-        padding: 40px 16px 70px;
+ 
+    .input_conteiner {
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
     }
-
-    .input_container {
-        flex-direction: column;
-        align-items: center;
-    }
-
+  
     .input {
-        width: 100%;
-        max-width: 300px;
+      width: 100%;
+      max-width: 600px;
     }
-
+  
     .button {
-        width: 10%;
-        max-width: 300px;
-        margin-top: 0px;
+      width: 100%;
+      max-width: 100px;
+      margin-top: 0px;
     }
-
-    .content_header {
-        flex-direction: column;
-        align-items: center;
-    }
-
+   
     .tasks_container {
-        margin-bottom: 8px;
+      margin-bottom: 8px;
     }
-}
+  }
+
+  @media (max-width: 550px) {
+    .section_conteiner {
+      padding: 0px;
+    }
+  
+    .input {
+      width: 100%;
+      max-width: 300px;
+    }
+  
+    .button {
+      width: 100%;
+      max-width: 100px;
+      margin-top: 0px;
+    }
+  
+    .tasks_created,
+    .tasks_done {
+      font-size: 12px;
+      line-height: 15px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .section_conteiner {
+      padding: 0px;
+    }
+  
+    .input {
+      width: 100%;
+      max-width: 100px;
+    }
+  
+    .button {
+      width: 100%;
+      max-width: 100px;
+      margin-top: 0px;
+    }
+  
+    .tasks_created,
+    .tasks_done {
+      font-size: 12px;
+      line-height: 15px;
+    }
+  }
