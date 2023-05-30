@@ -32,7 +32,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Abaixo está como você pode instalar e configurar seu aplicativo.
 
 Clonar o repositório
-git clone [https://github.com/your_username_/Project-Name.git](https://github.com/77Eduardo/ToDoList)
+git clone https://github.com/77Eduardo/ToDoList
 
 ## Instalar pacotes NPM
 
