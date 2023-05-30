@@ -29,7 +29,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🚀 Instalação
-Abaixo está um exemplo de como você pode instruir seu público sobre como instalar e configurar seu aplicativo. Este modelo não depende de nenhuma dependência ou serviço externo.
+Abaixo está como você pode instalar e configurar seu aplicativo.
 
 Clonar o repositório
 git clone [https://github.com/your_username_/Project-Name.git](https://github.com/77Eduardo/ToDoList)
