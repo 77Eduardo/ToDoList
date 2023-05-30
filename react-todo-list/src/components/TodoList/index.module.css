@@ -101,12 +101,64 @@ input[type="checkbox"]:hover{
 
 @media (max-width: 768px) {
     .content_container {
-        width: 100%;
-        padding: 12px;
+      width: 600px;
+      padding: 12px;
     }
-
+  
     .text,
     .text_scratched {
-        font-size: 12px;
+      font-size: 12px;
     }
-}
+  }
+
+  @media (max-width: 550px) {
+    .content_container {
+      
+      width: 400px;
+      gap: 8px;
+      padding: 12px;
+    }
+  
+    .text,
+    .text_scratched {
+      font-size: 10px;
+    }
+  
+    .img {
+      width: 16px;
+      height: 16px;
+    }
+  
+    input[type="checkbox"] {
+      width: 19px;
+      height: 18px;
+    }
+  
+ 
+  }
+  
+  @media (max-width: 480px) {
+    .content_container {
+      
+      width: 400px;
+      gap: 8px;
+      padding: 12px;
+    }
+  
+    .text,
+    .text_scratched {
+      font-size: 10px;
+    }
+  
+    .img {
+      width: 16px;
+      height: 16px;
+    }
+  
+    input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+    }
+
+
+  }

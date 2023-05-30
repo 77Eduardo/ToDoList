@@ -23,6 +23,14 @@
 
     .button {
       margin-top: 32px;
-      width: 35%;
+      width: 90px;
     }
+}
+
+@media (max-width: 550px) {
+
+  .button {
+    margin-top: 32px;
+    width: 90px;
   }
+}
